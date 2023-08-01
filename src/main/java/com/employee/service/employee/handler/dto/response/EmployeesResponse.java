@@ -9,7 +9,8 @@ public class EmployeesResponse {
   private String email;
   private String phoneNumber;
 
-//  private DepartmentDto departmentDto;
+  private DepartmentDto departmentDto;
+  private String departmentName;
 
   private long totalData;
 

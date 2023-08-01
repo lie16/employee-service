@@ -20,7 +20,7 @@ public class Employee extends BaseModel {
   private String employeeName;
   private String email;
   private String phoneNumber;
-
+  private Integer department_department_id;
 //  @OneToOne(fetch = FetchType.LAZY)
 //  private Department department;
 
